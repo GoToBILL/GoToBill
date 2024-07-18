@@ -26,5 +26,4 @@ Here are some ideas to get you started:
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=gotobill&show_icons=true&theme=radical" alt="Byungju's GitHub stats" style="display: inline-block;"/>
 </div>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!--![](./profile-3d-contrib/profile-night-rainbow.svg)-->
