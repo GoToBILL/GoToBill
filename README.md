@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=byungju's%20Github&fontSize=90" />
+</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnqudwn)](https://solved.ac/wnqudwn/)
