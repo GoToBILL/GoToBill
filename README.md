@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,2,2,5,30)&height=300&section=header&text=byungju's%20Github&fontSize=90&fontColor=000000" />
 </div>
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
-</div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <div align="center">
   <a href="https://solved.ac/wnqudwn/">
