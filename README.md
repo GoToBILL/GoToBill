@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=byungju's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,2,2,5,30)&height=300&section=header&text=byungju's%20Github&fontSize=90&fontColor=000000" />
+</div>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph"/>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnqudwn)](https://solved.ac/wnqudwn/)
+<div align="center">
+  <a href="https://solved.ac/wnqudwn/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnqudwn" alt="Solved.ac Profile" style="display: inline-block;"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=gotobill&show_icons=true&theme=radical" alt="Byungju's GitHub stats" style="display: inline-block;"/>
+</div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
