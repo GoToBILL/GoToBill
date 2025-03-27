@@ -14,11 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=3,2,2,5,30)&height=300&section=header&text=byungju's%20Github&fontSize=90&fontColor=000000" />
 </div>
 <br><br>
+-->
 
+| 기간         | 활동명             | 역할/포지션      |
+|--------------|--------------------|------------------|
+|2025.03 ~ 2025.09| PROGRAPHY   10기| 백엔드|
+| 2024.03 ~ 2024.12 | 멋쟁이사자처럼 12기       |   백엔드 |
+|2023.08 ~ 2023.12|42 SEOUL||
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 <br><br>
