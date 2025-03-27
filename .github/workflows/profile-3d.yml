@@ -18,7 +18,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config user.name gotobill
-          git config user.email nobody@example.com
+          git config user.email wnqudwnrlrl@naver.com
           git add -A .
-          git commit -m "generated"
+          GIT_AUTHOR_DATE="2000-01-01T00:00:00" GIT_COMMITTER_DATE="2000-01-01T00:00:00" git commit -m "generated" --no-verify
           git push
