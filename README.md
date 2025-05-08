@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg)-->
 <br><br>
 <div align="center">
   <a href="https://solved.ac/wnqudwn/">
