@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 </div>
 <br><br>
 -->
+
+<div align="center">
 <table>
 <tr>
   <td>
@@ -34,17 +36,18 @@ Here are some ideas to get you started:
 |2023.08 ~ 2023.12| 42 SEOUL | |
 
 <b>🏆 수상 내역</b>  
+<div align="center">
 
 | 연도 | 수상명 | 주관기관 |
 |:--:|:--:|:--:|
 |2024| SW/AI 해커톤 대상 | 세종대학교 |
 |2024| 컴퓨터공학과 학술제 우수상 | 세종대학교 |
-
+<div>
 
   </td>
 </tr>
 </table>
-
+<div>
 
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg)-->
