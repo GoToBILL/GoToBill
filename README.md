@@ -50,9 +50,10 @@ Here are some ideas to get you started:
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg)-->
 <br><br>
 <div align="center">
-  <a href="https://solved.ac/wnqudwn/">
+  <!-- <a href="https://solved.ac/wnqudwn/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnqudwn" alt="Solved.ac Profile" style="display: inline-block;"/>
   </a>
+  -->
   <img src="https://github-readme-stats.vercel.app/api?username=gotobill&show_icons=true&theme=radical" alt="Byungju's GitHub stats" style="display: inline-block;"/>
 </div>
 <!--![](./profile-3d-contrib/profile-night-rainbow.svg)-->
