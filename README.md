@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <!--![](./profile-3d-contrib/profile-night-rainbow.svg)-->
 
 <br><br><br>
-<h3 align="center">🔧Tech Stack🔧</h3>
+<h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
   <img src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/spring-security.png" alt="spring security" height="50px"/>
