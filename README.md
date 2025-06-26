@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 | 연도 | 수상명 | 주관기관 |
 |:--:|:--:|:--:|
+|2025| SW/AI 해커톤 장려상| 세종대학교 |
 |2024| SW/AI 해커톤 대상 | 세종대학교 |
 |2024| 컴퓨터공학과 학술제 우수상 | 세종대학교 |
 <div>
@@ -48,19 +49,20 @@ Here are some ideas to get you started:
 </tr>
 </table>
 <div>
-
-
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg)-->
 <br><br>
+
 <div align="center">
   <!-- <a href="https://solved.ac/wnqudwn/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wnqudwn" alt="Solved.ac Profile" style="display: inline-block;"/>
   </a>
   -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gotobill&show_icons=true&theme=radical" alt="Byungju's GitHub stats" style="display: inline-block;"/>
+<!--
+  <img src="https://github-readme-stats.vercel.app/api?username=gotobill&show_icons=true&theme=radical" alt="Byungju's GitHub stats" style="display: inline-block;"/>-->
 </div>
 <!--![](./profile-3d-contrib/profile-night-rainbow.svg)-->
 
+<!--
 <br><br><br>
 <h3 align="center">Tech Stack</h3>
 <div align="center">
@@ -79,4 +81,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</div>
+</div>-->
+
